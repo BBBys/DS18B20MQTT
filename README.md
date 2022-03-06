@@ -1,2 +1,1 @@
-# DS18B20MQTT
- Heizungsüberwachung mit drei Sensoren über MQTT
+# Heizungsüberwachung mit drei DS18B20-Sensoren über MQTT
